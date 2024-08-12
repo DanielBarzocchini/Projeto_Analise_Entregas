@@ -6,12 +6,18 @@ Fiz algumas totalizações usando dax no power bi, em seguida montei os gráfico
 
 - Entregas:
 Total de pedidos
+
 Faturamento total 
+
 Faturamento por cliente
+
 Relação de entragas (no prazo x atrasadas)
+
 Atrasos por motorista
 
 - Devoluções:
+
 Devoluções por motorista
+
 Motivos de devolução
 
