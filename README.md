@@ -22,3 +22,9 @@ Devoluções por motorista
 
 Motivos de devolução
 
+![image](https://github.com/user-attachments/assets/27ee2387-678e-4535-ae2e-f21a175b2d61)
+
+
+Segue o link para melhor visualização do dashboard.
+
+https://app.powerbi.com/view?r=eyJrIjoiZjdkNWUzZGQtMGJlYS00NTkwLWEzY2QtMWEyZGM5NGI5ZjI3IiwidCI6IjljN2JkOTM3LTY5MmItNDZiOS05NjkzLTg2MGUxNDE2MDQzOSJ9
