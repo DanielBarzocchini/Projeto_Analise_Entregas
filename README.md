@@ -5,6 +5,7 @@ Neste projeto criarei um dashboard no Power BI para que os responsáveis pela em
 Fiz algumas totalizações usando dax no power bi, em seguida montei os gráficos detalhando os pontos:
 
 - Entregas:
+  
 Total de pedidos
 
 Faturamento total 
